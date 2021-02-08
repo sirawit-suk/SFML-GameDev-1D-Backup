@@ -1,0 +1,262 @@
+﻿  Game.cpp
+  GameState2.cpp
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(41,48): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(41,48): warning C4305:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(41,48): warning C4305:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(41,48): warning C4305:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(41,48): warning C4305:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(44,46): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(623,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(655,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(822,88): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(822,88): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(822,88): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(822,88): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(822,88): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1932,72): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1933,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1934,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1935,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1935,61): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1935,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1935,61): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1935,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1936,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1936,61): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1936,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1936,61): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1936,61): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1937,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1937,61): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1937,61): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1937,61): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1937,61): warning C4244:         ]
+  LoadingState.cpp
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1938,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1938,59): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1938,59): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1938,59): warning C4244:             T=int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\GameState2.cpp(1938,59): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(7,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(16,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(24,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,101): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,101): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,101): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,101): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,50): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,50): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,50): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(27,50): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(56,30): error C2061: syntax error: identifier 'GameState'
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,102): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,102): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,102): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,102): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,51): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,51): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,51): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(69,51): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(80,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  LoadingState2.cpp
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState.cpp(86,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(7,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(16,56): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(24,55): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,101): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,101): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,101): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,101): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,50): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,50): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,50): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(27,50): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,102): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,102): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,102): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,102): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,51): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,51): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,51): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(69,51): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(80,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Main.cpp
+  MainMenuState.cpp
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\LoadingState2.cpp(86,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,68): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         and
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(52,47): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,80): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,80): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,80): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,80): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,50): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,50): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,50): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(55,50): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,80): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,80): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,80): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,80): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,50): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,50): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,50): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(56,50): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,82): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,82): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,82): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,82): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,51): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,51): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,51): warning C4244:             T=unsigned int
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(57,51): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,101): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,101): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,101): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,101): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,50): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,50): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,50): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(60,50): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,102): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,102): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,102): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,102): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,102): warning C4244:         ]
+  Generating Code...
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,51): warning C4244:         with
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,51): warning C4244:         [
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,51): warning C4244:             T=float
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\MainMenuState.cpp(168,51): warning C4244:         ]
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\PauseMenu.h(25): warning C4172: returning address of local variable or temporary
+D:\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\PauseMenu.h(26): warning C4172: returning address of local variable or temporary

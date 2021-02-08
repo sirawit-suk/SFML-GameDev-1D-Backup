@@ -1,0 +1,63 @@
+﻿  Ally.cpp
+  Animation.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Human.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bomb.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Animation.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bullet.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Bomb.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BulletPlayer.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Bullet.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BulletBot.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Bullet.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Button.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Bullet.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collision.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Button.h(7,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Effect.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Collision.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Enemy.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Effect.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Fade.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Human.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Fade.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameState.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameState2.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Human.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Item.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Human.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  LoadingState.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Item.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  LoadingState2.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MainMenuState.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Compiling...
+  NameState.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PauseMenu.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Plane.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\PauseMenu.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Platform.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Vehicle.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Collision.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ScoreboardState.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Human.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  State.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Tank.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\State.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Tower.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Vehicle.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Vehicle.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Tower.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Windmill.cpp
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Vehicle.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\ASUS\Desktop\Profun\Game Project\SourceCode\FINAL_GAME_PROJECT\My_Game_V1\My_Game_V1\Windmill.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

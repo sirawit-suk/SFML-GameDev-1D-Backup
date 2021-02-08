@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HUMAN">
+      <UniqueIdentifier>{658e9cac-eab0-4356-8160-feefca6dc542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BULLET">
+      <UniqueIdentifier>{95ecf047-07dd-4ebd-a78e-e27ba4179b7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLISION">
+      <UniqueIdentifier>{0ec4864e-a09c-4404-9134-8d1fa4bab864}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COMPONENTS">
+      <UniqueIdentifier>{17a38351-cc21-4efd-a850-29932267ecb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ITEM">
+      <UniqueIdentifier>{c3b2926d-1ad4-4a20-a67c-f175453b89a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VEHICLE">
+      <UniqueIdentifier>{b3fc2c02-8854-495f-b547-5cf71dfbed5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STATE">
+      <UniqueIdentifier>{84a03806-3034-4838-b0f8-7f7c08601081}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MAP">
+      <UniqueIdentifier>{4a85c7f5-09ed-4be9-b838-1472b8b4cec5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EFFECT">
+      <UniqueIdentifier>{5a28473a-b189-43c1-925b-2d535c16f97d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>HUMAN</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>HUMAN</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>HUMAN</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>COLLISION</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>COLLISION</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>COMPONENTS</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>COMPONENTS</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletPlayer.cpp">
+      <Filter>BULLET</Filter>
+    </ClCompile>
+    <ClCompile Include="Ally.cpp">
+      <Filter>HUMAN</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>BULLET</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBot.cpp">
+      <Filter>BULLET</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>ITEM</Filter>
+    </ClCompile>
+    <ClCompile Include="Vehicle.cpp">
+      <Filter>VEHICLE</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>VEHICLE</Filter>
+    </ClCompile>
+    <ClCompile Include="Windmill.cpp">
+      <Filter>MAP</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>EFFECT</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreboardState.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.cpp">
+      <Filter>COMPONENTS</Filter>
+    </ClCompile>
+    <ClCompile Include="NameState.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>VEHICLE</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>EFFECT</Filter>
+    </ClCompile>
+    <ClCompile Include="Tower.cpp">
+      <Filter>MAP</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingState.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState2.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingState2.cpp">
+      <Filter>STATE</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameState.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>HUMAN</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>HUMAN</Filter>
+    </ClInclude>
+    <ClInclude Include="Human.h">
+      <Filter>HUMAN</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>COLLISION</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>COLLISION</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>COMPONENTS</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>COMPONENTS</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletPlayer.h">
+      <Filter>BULLET</Filter>
+    </ClInclude>
+    <ClInclude Include="Ally.h">
+      <Filter>HUMAN</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>BULLET</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBot.h">
+      <Filter>BULLET</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>ITEM</Filter>
+    </ClInclude>
+    <ClInclude Include="Vehicle.h">
+      <Filter>VEHICLE</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>VEHICLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Windmill.h">
+      <Filter>MAP</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>EFFECT</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreboardState.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade.h">
+      <Filter>COMPONENTS</Filter>
+    </ClInclude>
+    <ClInclude Include="NameState.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>VEHICLE</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>EFFECT</Filter>
+    </ClInclude>
+    <ClInclude Include="Tower.h">
+      <Filter>MAP</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingState.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState2.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingState2.h">
+      <Filter>STATE</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
